@@ -1,3 +1,3 @@
 # pw-study
 
-<a url="https://www.monkeytype.com"> monkeytype</a>
+<link url="https://www.monkeytype.com"> monkeytype</link>
